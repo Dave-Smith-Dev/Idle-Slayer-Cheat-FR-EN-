@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Coins / Offsets"</Description>
+      <VariableType>Double</VariableType>
+      <Address>"GameAssembly.dll"+01EA6E28</Address>
+      <Offsets>
+        <Offset>20</Offset>
+        <Offset>20</Offset>
+        <Offset>B8</Offset>
+        <Offset>78</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
